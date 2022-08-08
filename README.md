@@ -72,12 +72,20 @@ Link: https://github.com/Juantonios1/IBM-Data-Science-Professional-Certificate/t
 ---
 ## Databases and SQL for Data Science with Python
 This module contain information about:
-* Basic SQL.
-* Relational database.
-* Intermediate SQL.
+* Basic SQL: 
+  * Select.
+  * Count, distinct, & limit.
+  * Insert.
+  * Update & delete.
+* Relational database:
+  * Create table.
+  * Alter, drop, & truncrate.
+* Intermediate SQL:
+  * Sorting & grouping.
+  * Function, multiple, sub-queries.
 * Acessing database using python.
 * Module final assignment.
-* Advanced SQL for data engineering.
+* Advanced SQL for data engineering: Join.
 
 Link: https://github.com/Juantonios1/IBM-Data-Science-Professional-Certificate/tree/main/Databases%20and%20SQL%20for%20Data%20Science%20with%20Python
 
@@ -85,10 +93,20 @@ Link: https://github.com/Juantonios1/IBM-Data-Science-Professional-Certificate/t
 ## Data Analysis with Python
 This module contain information about:
 * Import dataset.
-* Data wrangling.
-* EDA.
-* Model development.
-* Model evaluation.
+* Data wrangling:
+  * Missing values.
+  * Data formatting.
+  * Data normalization.
+  * Binning.
+* Exploratory Dataset Analysis:
+  * Descriptive.
+  * Correlation.
+  * Chi-square.
+* Model development:
+  * Linear regression & multiple linear regression.
+* Model evaluation:
+  * Underfitting & Overfitting.
+  * Ridge algorithm.
 * Module final assignment.
 
 Link: https://github.com/Juantonios1/IBM-Data-Science-Professional-Certificate/tree/main/Data%20Analysis%20with%20Python
